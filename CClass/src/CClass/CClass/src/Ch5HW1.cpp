@@ -8,7 +8,7 @@ int main()
     float t = 0;
 
     cout << "總分:";
-    for (auto s: score) //累加陣列所有分數
+    for (auto s: score)
     {
         t += s;
     }

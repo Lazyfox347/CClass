@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     float r = 0;
-    const float pi = 3.14159;   //常數 宣告完無法更改
+    const float pi = 3.14159;
 
     cout << "請輸入圓半徑:" << endl;
     cin >> r;
