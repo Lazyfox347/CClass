@@ -16,4 +16,6 @@ int main()
         cout << i << "*8=" << i*8 << "\t";
         cout << i << "*9=" << i*9 << "\t" << endl;
     }
+
+    return 0
 }

@@ -19,4 +19,6 @@ int main()
     cout << counter << endl;
     counter = (counter + 1) % 10;
     cout << counter << endl;
+
+    return 0;
 }

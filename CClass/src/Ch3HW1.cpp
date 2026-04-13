@@ -10,4 +10,6 @@ int main()
     cout << "請輸入圓半徑:" << endl;
     cin >> r;
     cout << "圓面積為:" << pi * r * r << "\n" << "圓周長為:" << 2 * r * pi << endl;
+
+    return 0;
 }

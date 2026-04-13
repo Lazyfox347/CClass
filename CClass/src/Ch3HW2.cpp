@@ -17,4 +17,6 @@ int main()
     {
         cout << n << "為基數" << endl;
     }
+
+    return 0;
 }

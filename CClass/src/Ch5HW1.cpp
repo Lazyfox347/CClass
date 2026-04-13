@@ -13,4 +13,6 @@ int main()
         t += s;
     }
     cout << t << "\n平均分數:" << t / 5 << endl;
+
+    return 0;
 }
